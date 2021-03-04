@@ -1,0 +1,22 @@
+{
+  "name": "jspr003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayshishodia/JSPR003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayshishodia/JSPR003/issues"
+  },
+  "homepage": "https://github.com/tanmayshishodia/JSPR003#readme",
+  "dependencies": {
+    "mocha": "^8.3.0"
+  }
+}
